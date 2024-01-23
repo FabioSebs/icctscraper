@@ -2,11 +2,14 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
+import json
 
 class WebScraper:
-    def __init__(self, url) -> None:
+    def __init__(self, url, fname) -> None:
+        self.fname = fname
         self.url = url
         self.driver = webdriver.Chrome()
+        self.entries = []
 
     def navigate_to_url(self):
         self.driver.get(self.url)
@@ -14,6 +17,10 @@ class WebScraper:
     # NOTE: override this
     def perform_scraping(self):
         pass
+
+    def write_json(self):
+        with open(self.fname, "w") as json_file:
+            json.dump(self.entries, json_file, indent=2)
 
     def close_driver(self):
         if self.driver:
@@ -24,5 +31,6 @@ class WebScraper:
             self.navigate_to_url()
             time.sleep(5)
             self.perform_scraping()
+            self.write_json()
         finally:
             self.close_driver()
