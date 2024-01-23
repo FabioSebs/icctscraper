@@ -1,0 +1,5 @@
+typing-extensions
+selenium
+python-dotenv
+# Add other dependencies if needed
+

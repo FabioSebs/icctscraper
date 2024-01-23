@@ -1,0 +1,3 @@
+from websites import expedia
+
+expedia.ExpediaScraper.perform_scraping
