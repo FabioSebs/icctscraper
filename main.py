@@ -1,7 +1,10 @@
-from websites import expedia
+from websites import bookings
 import os
 from dotenv import load_dotenv
 load_dotenv()
 
-ExpediaScraper = expedia.ExpediaScraper(os.getenv("EXPEDIA"), "expedia.json")
-ExpediaScraper.run()
+Bookings = bookings.BookingsScraper(
+    "https://theicct.org/insight-analysis/publications/",
+    "books.json"
+)
+Bookings.run()

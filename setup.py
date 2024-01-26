@@ -22,6 +22,11 @@ class WebScraper:
         with open(self.fname, "w") as json_file:
             json.dump(self.entries, json_file, indent=2)
 
+    def append_entry(self, new_entry):
+        self.entries.append(new_entry)
+        self.write_json()
+
+
     def close_driver(self):
         if self.driver:
             self.driver.quit()
@@ -29,7 +34,6 @@ class WebScraper:
     def run(self):
         try:
             self.navigate_to_url()
-            time.sleep(5)
             self.perform_scraping()
             self.write_json()
         finally:
