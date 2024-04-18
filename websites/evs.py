@@ -13,10 +13,6 @@ class EVScraper(WebScraper):
         WebDriverWait(self.driver, 10).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, 'main#main-content')))
 
-               # Get initial height of the page
-        last_height = self.driver.execute_script(
-            "return document.body.scrollHeight")
-
         # Set initial scroll position and increment
         scroll_position = 0
         scroll_increment = 1000  # Adjust as needed

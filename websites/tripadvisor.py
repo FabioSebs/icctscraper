@@ -14,6 +14,7 @@ class TripAdvisorScraper(WebScraper):
                 By.CSS_SELECTOR, "div.ui_columns div.prw_rup div div.main_content div.search-results-list div.ui_columns div.ui_column div.ui_columns"
             )
 
+
             for parent_element in parent_elements:
                 try:
                 
