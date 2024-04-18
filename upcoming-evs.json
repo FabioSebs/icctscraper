@@ -1,0 +1,742 @@
+[
+  {
+    "model": "Acura ZDX",
+    "Price": "",
+    "Year": "Early 2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Alfa Romeo Giulia EV",
+    "Price": "",
+    "Year": "2025",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Audi A6 e-tron",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Audi Q6 e-tron",
+    "Price": "",
+    "Year": "Late 2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Bentley EV",
+    "Price": "",
+    "Year": "2027",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "BMW i5 M",
+    "Price": "",
+    "Year": "2026",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "BMW 3-series EV",
+    "Price": "",
+    "Year": "2026",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "BMW iX3",
+    "Price": "",
+    "Year": "2025",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Buick Electra",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Cadillac Celestiq",
+    "Price": "",
+    "Year": "Early 2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Cadillac Escalade iQ",
+    "Price": "",
+    "Year": "Summer 2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Cadillac Vistiq",
+    "Price": "",
+    "Year": "Early 2025",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Cadillac Optiq",
+    "Price": "",
+    "Year": "Late 2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Canoo Pickup Truck",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Canoo Lifestyle Vehicle",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Chevrolet Equinox EV",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Chevrolet Corvette EV and SUV",
+    "Price": "",
+    "Year": "2025",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Chevrolet Bolt EV",
+    "Price": "",
+    "Year": "2025",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Chrysler EV Crossover",
+    "Price": "",
+    "Year": "2025",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Dodge Charger Daytona",
+    "Price": "",
+    "Year": "Late 2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Deus Vayanne",
+    "Price": "",
+    "Year": "2025",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Faraday Future FF91",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Fiat 500e",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Fisker Pear",
+    "Price": "",
+    "Year": "2025",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Fisker Alaska",
+    "Price": "",
+    "Year": "2025",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Fisker Rōnin",
+    "Price": "",
+    "Year": "2025",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Ford Compact Crossover",
+    "Price": "",
+    "Year": "Late 2026",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Ford Explorer EV",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "GMC Sierra EV",
+    "Price": "",
+    "Year": "Early 2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Honda Prologue",
+    "Price": "",
+    "Year": "Early 2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Honda Saloon",
+    "Price": "",
+    "Year": "2026",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Hyundai Ioniq 7",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Hyundai Ioniq 5 N and 6 N",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Jeep Wrangler EV",
+    "Price": "",
+    "Year": "2028",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Jeep Recon",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Jeep Wagoneer S",
+    "Price": "",
+    "Year": "Fall 2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Kia EV3",
+    "Price": "",
+    "Year": "2026",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Kia EV4",
+    "Price": "",
+    "Year": "2026",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Lamborghini Lanzador",
+    "Price": "",
+    "Year": "2028",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Land Rover Range Rover EV",
+    "Price": "",
+    "Year": "2025",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Lexus EV Supercar",
+    "Price": "",
+    "Year": "Late 2020s",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Lexus TZ",
+    "Price": "",
+    "Year": "2026",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Lincoln Star",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Lotus Eletre",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Lotus Emeya",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Lucid Gravity",
+    "Price": "",
+    "Year": "Late 2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Maserati Grecale Folgore",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Maserati GranTurismo Folgore",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Mercedes-Benz EQG",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Mercedes-AMG EV",
+    "Price": "",
+    "Year": "2026",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Mini Cooper Electric",
+    "Price": "",
+    "Year": "2025",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Mini Aceman",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Mini Countryman Electric",
+    "Price": "",
+    "Year": "Fall 2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Polestar 3",
+    "Price": "",
+    "Year": "Summer 2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Polestar 4",
+    "Price": "",
+    "Year": "Late 2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Polestar 5",
+    "Price": "",
+    "Year": "2025",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Polestar 6",
+    "Price": "",
+    "Year": "2026",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Porsche Macan EV",
+    "Price": "",
+    "Year": "Late 2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Porsche 718 Cayman and Boxster EVs",
+    "Price": "",
+    "Year": "2025",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Porsche Cayenne EV",
+    "Price": "",
+    "Year": "2026",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Porsche flagship EV SUV",
+    "Price": "",
+    "Year": "2026",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Ram 1500 REV",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Rivian R2",
+    "Price": "",
+    "Year": "2026",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Rivian R3 and R3X",
+    "Price": "",
+    "Year": "2027",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Scout SUV and Truck",
+    "Price": "",
+    "Year": "2026",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Sony-Honda Afeela Sedan",
+    "Price": "",
+    "Year": "2026",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Tesla Roadster",
+    "Price": "",
+    "Year": "2025...maybe",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Toyota Tacoma EV",
+    "Price": "",
+    "Year": "2026",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "VinFast VF9",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Volkswagen ID.7",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Volkswagen ID.Buzz",
+    "Price": "",
+    "Year": "Summer 2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Volvo EX30",
+    "Price": "",
+    "Year": "Summer 2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Volvo XC60",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "model": "Volvo EX90",
+    "Price": "",
+    "Year": "2024",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  }
+]
