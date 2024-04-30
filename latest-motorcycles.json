@@ -1,0 +1,932 @@
+[
+  {
+    "Model": "United T1800 Standard",
+    "Price": "OTR : Rp 27 Juta\nDP : Rp 6,75 Juta, Cicilan : Rp 616.044 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Benelli Dong Electric",
+    "Price": "OTR : Rp 37,25 Juta\nDP : Rp 9,31 Juta, Cicilan : Rp 849.912 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Viar Akasha1 Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Viar UNO Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Viar Caraka Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Viar C2 Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Viar U1 Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Viar Re3 Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Viar V2 Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Viar ER1 Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Viar NX Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Viar EV1 Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Viar A2 Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Viar U3 Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Viar C3X Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Viar Akasha3 Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Viar V3 Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Viar UNO3 Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "BMW CE 04 Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Gesits Electric G1",
+    "Price": "OTR : Rp 28,7 Juta\nDP : Rp 7,18 Juta, Cicilan : Rp 654.832 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Yamaha E01 Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Selis E-Max SLA",
+    "Price": "OTR : Rp 15,5 Juta\nDP : Rp 3,88 Juta, Cicilan : Rp 353.655 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Selis E-Max Single Battery Lithium",
+    "Price": "OTR : Rp 22 Juta\nDP : Rp 5,5 Juta, Cicilan : Rp 501.961 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Selis E-Max Dual Battery Lithium",
+    "Price": "OTR : Rp 28 Juta\nDP : Rp 7 Juta, Cicilan : Rp 638.860 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Selis Neo Scootic Electric",
+    "Price": "OTR : Rp 13,5 Juta\nDP : Rp 3,38 Juta, Cicilan : Rp 308.022 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Selis Agats Electric",
+    "Price": "OTR : Rp 19,9 Juta\nDP : Rp 4,98 Juta, Cicilan : Rp 454.047 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Selis Rinjani Electric",
+    "Price": "OTR : Rp 5,8 Juta\nDP : Rp 1,45 Juta, Cicilan : Rp 132.335 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Selis Kenari Electric",
+    "Price": "OTR : Rp 5,9 Juta\nDP : Rp 1,47 Juta, Cicilan : Rp 134.592 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Selis Murai Electric",
+    "Price": "OTR : Rp 7 Juta\nDP : Rp 1,75 Juta, Cicilan : Rp 159.715 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Selis Mandalika Electric",
+    "Price": "OTR : Rp 5,4 Juta\nDP : Rp 1,35 Juta, Cicilan : Rp 123.208 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Selis Go Plus Electric",
+    "Price": "OTR : Rp 27 Juta\nDP : Rp 6,75 Juta, Cicilan : Rp 616.019 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Selis Mino Electric",
+    "Price": "OTR : Rp 5,9 Juta\nDP : Rp 1,48 Juta, Cicilan : Rp 134.617 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Selis Anyer Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Selis Komodo Electric",
+    "Price": "OTR : Rp 6,05 Juta\nDP : Rp 1,51 Juta, Cicilan : Rp 138.039 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Selis Sanur Electric",
+    "Price": "OTR : Rp 4,9 Juta\nDP : Rp 1,22 Juta, Cicilan : Rp 111.800 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "BF Goodrich CG Standard",
+    "Price": "OTR : Rp 19,8 Juta\nDP : Rp 4,95 Juta, Cicilan : Rp 451.765 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "BF Goodrich Small S Standard",
+    "Price": "OTR : Rp 14,85 Juta\nDP : Rp 3,71 Juta, Cicilan : Rp 338.824 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "BF Goodrich BEE Electric",
+    "Price": "OTR : Rp 13,2 Juta\nDP : Rp 3,3 Juta, Cicilan : Rp 301.177 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "BF Goodrich Q7 Electric",
+    "Price": "OTR : Rp 13,2 Juta\nDP : Rp 3,3 Juta, Cicilan : Rp 301.177 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "ECGO 2 Standard",
+    "Price": "OTR : Rp 6,9 Juta\nDP : Rp 1,72 Juta, Cicilan : Rp 157.433 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "United Type B Electric",
+    "Price": "OTR : Rp 8,8 Juta\nDP : Rp 2,2 Juta, Cicilan : Rp 200.760 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "United Type M Electric",
+    "Price": "OTR : Rp 11,9 Juta\nDP : Rp 2,98 Juta, Cicilan : Rp 271.515 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "CFMoto Zeeho AE8 Standard",
+    "Price": "OTR : Rp 63,8 Juta\nDP : Rp 15,95 Juta, Cicilan : Rp 1,46 Juta x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "CFMoto Zeeho AE8 S Plus",
+    "Price": "OTR : Rp 73,6 Juta\nDP : Rp 18,4 Juta, Cicilan : Rp 1,68 Juta x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Rakata Motorcycle NX8 EV",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Rakata Motorcycle X5 Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Rakata Motorcycle S9 20 Ah",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Rakata Motorcycle S9 23.4 Ah",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Rakata Motorcycle NX3 EV",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Vespa ELETTRICA Electric",
+    "Price": "OTR : Rp 198 Juta\nDP : Rp 49,5 Juta, Cicilan : Rp 4,52 Juta x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Kawasaki NINJA E-1 Electric",
+    "Price": "OTR : Rp 149,9 Juta\nDP : Rp 37,48 Juta, Cicilan : Rp 3,42 Juta x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Kawasaki Z E-1 Electric",
+    "Price": "OTR : Rp 146,9 Juta\nDP : Rp 36,72 Juta, Cicilan : Rp 3,35 Juta x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Alva One Electric",
+    "Price": "OTR : Rp 29,49 Juta\nDP : Rp 7,37 Juta, Cicilan : Rp 672.857 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Alva CERVO Electric",
+    "Price": "OTR : Rp 35,75 Juta\nDP : Rp 8,94 Juta, Cicilan : Rp 815.688 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Alva One Xp Electric",
+    "Price": "OTR : Rp 38,5 Juta\nDP : Rp 9,62 Juta, Cicilan : Rp 878.433 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Yadea G6 Electric",
+    "Price": "OTR : Rp 29,35 Juta\nDP : Rp 7,34 Juta, Cicilan : Rp 669.662 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Yadea E8S Pro Electric",
+    "Price": "OTR : Rp 23,9 Juta\nDP : Rp 5,98 Juta, Cicilan : Rp 545.313 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Yadea T9 Electric",
+    "Price": "OTR : Rp 21,5 Juta\nDP : Rp 5,38 Juta, Cicilan : Rp 490.553 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Yadea Sparta Electric",
+    "Price": "OTR : Rp 9,9 Juta\nDP : Rp 2,48 Juta, Cicilan : Rp 225.882 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Yadea Dingding Electric",
+    "Price": "OTR : Rp 6,95 Juta\nDP : Rp 1,74 Juta, Cicilan : Rp 158.574 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Yadea Minion Electric",
+    "Price": "OTR : Rp 10,6 Juta\nDP : Rp 2,65 Juta, Cicilan : Rp 241.854 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Yadea X-Bull Electric",
+    "Price": "OTR : Rp 10,6 Juta\nDP : Rp 2,65 Juta, Cicilan : Rp 241.854 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Volta 401 Electric",
+    "Price": "OTR : Rp 16,95 Juta\nDP : Rp 4,24 Juta, Cicilan : Rp 386.738 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Volta Virgo Electric",
+    "Price": "OTR : Rp 18,1 Juta\nDP : Rp 4,52 Juta, Cicilan : Rp 412.977 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Volta Mandala Electric",
+    "Price": "OTR : Rp 18,95 Juta\nDP : Rp 4,74 Juta, Cicilan : Rp 432.371 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "LISGO S1 Electric",
+    "Price": "OTR : Rp 12 Juta\nDP : Rp 3 Juta, Cicilan : Rp 273.797 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "LISGO S1 Pro",
+    "Price": "OTR : Rp 15 Juta\nDP : Rp 3,75 Juta, Cicilan : Rp 342.246 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "LISGO S3 Electric",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "LISGO S3 Pro",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Savart S-1 Electric",
+    "Price": "OTR : Rp 42 Juta\nDP : Rp 10,5 Juta, Cicilan : Rp 958.291 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Savart S-1P Insignia Electric",
+    "Price": "OTR : Rp 45 Juta\nDP : Rp 11,25 Juta, Cicilan : Rp 1,03 Juta x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "KOOL Arjuna Electric",
+    "Price": "OTR : Rp 21,5 Juta\nDP : Rp 5,38 Juta, Cicilan : Rp 490.553 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "KOOL Chakra Electric",
+    "Price": "OTR : Rp 18,2 Juta\nDP : Rp 4,55 Juta, Cicilan : Rp 415.259 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "KOOL Bima Electric",
+    "Price": "OTR : Rp 32,9 Juta\nDP : Rp 8,22 Juta, Cicilan : Rp 750.661 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "KOOL Kirana Electric",
+    "Price": "OTR : Rp 21,9 Juta\nDP : Rp 5,48 Juta, Cicilan : Rp 499.680 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Polytron Fox-R Electric",
+    "Price": "OTR : Rp 20,5 Juta\nDP : Rp 5,12 Juta, Cicilan : Rp 467.737 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Polytron Fox-S Electric",
+    "Price": "OTR : Rp 11,5 Juta\nDP : Rp 2,88 Juta, Cicilan : Rp 262.389 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Charged Anoa Electric",
+    "Price": "OTR : Rp 26,88 Juta\nDP : Rp 6,72 Juta, Cicilan : Rp 613.306 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Charged Maleo Electric",
+    "Price": "OTR : Rp 20,88 Juta\nDP : Rp 5,22 Juta, Cicilan : Rp 476.407 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Charged Rimau Electric",
+    "Price": "OTR : Rp 26,88 Juta\nDP : Rp 6,72 Juta, Cicilan : Rp 613.306 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Segway E Series E110S",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Segway E Series E110L",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Segway E Series E125S",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Segway E Series E110A",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Segway E Series E100",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Segway B Series B90",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Segway B Series B110S",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Segway E200P One Standard",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Treeletrik T-70 Lithium",
+    "Price": "Price Coming Soon",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "GOVA F600 Electric",
+    "Price": "OTR : Rp 35,08 Juta\nDP : Rp 8,77 Juta, Cicilan : Rp 800.401 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Wmoto Neutron Electric",
+    "Price": "OTR : Rp 19,2 Juta\nDP : Rp 4,8 Juta, Cicilan : Rp 438.075 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Honda EM1 E Electric",
+    "Price": "OTR : Rp 40 Juta\nDP : Rp 10 Juta, Cicilan : Rp 912.658 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  },
+  {
+    "Model": "Honda EM1 E Plus",
+    "Price": "OTR : Rp 40,5 Juta\nDP : Rp 10,12 Juta, Cicilan : Rp 924.066 x 36",
+    "Year": "",
+    "Acceleration": "",
+    "Top-Speed": "",
+    "Range": "",
+    "Efficiency": "",
+    "Fast-Charge": ""
+  }
+]

@@ -34,21 +34,23 @@ class ZiggsScraper(WebScraper):
             By.CSS_SELECTOR, '.new__car__column__lists.no-ssr-list .d-row'
         )
 
-        for item in rows:
-            try:
-                result_data = {
-                    "Model": item.find_element(By.CSS_SELECTOR,".new__car__title").text.strip(),  
-                    "Price": item.find_element(By.CSS_SELECTOR,".new__car__price").text.strip(),
-                    "Year": "",
-                    "Acceleration": "",
-                    "Top-Speed": "",
-                    "Range": "",
-                    "Efficiency": "",
-                    "Fast-Charge": ""
-                }
+        for row in rows:
+            items = row.find_elements(By.CSS_SELECTOR, ".col-md-12")
+            for item in items:
+                try:
+                    result_data = {
+                        "Model": item.find_element(By.CSS_SELECTOR, ".new__car__title").text.strip(),  
+                        "Price": item.find_element(By.CSS_SELECTOR, ".new__car__price").text.strip(),
+                        "Year": "",
+                        "Acceleration": "",
+                        "Top-Speed": "",
+                        "Range": "",
+                        "Efficiency": "",
+                        "Fast-Charge": ""
+                    }
 
-                self.entries.append(result_data)
-            except Exception as e:
-                continue
+                    self.entries.append(result_data)
+                except Exception as e:
+                    continue
         
         self.driver.quit()

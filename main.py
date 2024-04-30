@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 EVS = ziggs.ZiggsScraper(
-    "https://www.zigwheels.co.id/en/mobil-baru/elektrik/",
-    "latest-evs2.json"
+    "https://www.zigwheels.co.id/motor-baru/elektrik/",
+    "latest-motorcycles.json"
 )
 EVS.run()
