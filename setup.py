@@ -1,20 +1,29 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-import time
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
 import json
 
 class WebScraper:
     def __init__(self, url, fname) -> None:
-        self.fname = fname
-        self.url = url
-        self.driver = webdriver.Chrome()
+        self.url = url  # URL to scrape
+        self.fname = fname  # Output file name
+
+        # Setup Chrome options
+        chrome_options = Options()
+
+        # If you want to use a specific Chrome binary
+        chrome_options.binary_location = "./chromedriver"
+
+        # Initialize the Chrome WebDriver using WebDriverManager
+        self.driver = webdriver.Chrome(options=chrome_options)
         self.entries = []
 
     def navigate_to_url(self):
         self.driver.get(self.url)
 
-    # NOTE: override this
+    # NOTE: Override this method in subclasses to perform specific scraping
     def perform_scraping(self):
         pass
 
@@ -25,7 +34,6 @@ class WebScraper:
     def append_entry(self, new_entry):
         self.entries.append(new_entry)
         self.write_json()
-
 
     def close_driver(self):
         if self.driver:
